@@ -22,3 +22,4 @@ class UserSeeder extends Seeder
         ]);
     }
 }
+/** Add Login As Administrator */
